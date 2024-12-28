@@ -7,6 +7,8 @@ public class A {
 		System.out.println("master");
 
 		System.out.println("devB branch");
+		
+		System.out.println("devC branch");
 
 	}
 }
